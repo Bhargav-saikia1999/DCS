@@ -18,7 +18,7 @@ polynomial is CRC16 (x16 + x15 + x2 + 1). We initialize the register to 16’hff
 ensure that leading 0s in front of a packet are protected by the CRC. All the
 registers are clocked with common clock</p>
 
-<img src="img/img1.png" style="transform:scale(0.5,0.5)"/>
+<img src="img/img1.png" width="40px"/>
 
 <p><b>FEC:</b> Forward Error Correction (FEC) code is a system of adding redundant data, or
 parity data, to a message, such that it can be recovered by a receiver even when a
