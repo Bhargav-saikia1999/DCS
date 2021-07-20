@@ -44,7 +44,7 @@ thus doubling the amount of data that must be transmitted.
 -gi is the K-element generator for parity bit pi.
 g0 = 1,1,1,1 and g1 = 1,1,0,1. The parity bits are then</p>
 
-<img src="img/img2.png" width="550px">
+<img src="img/img2.png" width="550px" height="150px">
 
 <p><b>Interleaver:</b> In many situations errors come in bursts: correlated multi-bit errors
 (e.g., fading or burst of interference on wireless channels, damage to storage media
